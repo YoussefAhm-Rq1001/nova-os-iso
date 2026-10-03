@@ -1,0 +1,7 @@
+PRETTY_NAME="Nova OS 1.0"
+NAME="Nova OS"
+VERSION_ID="1.0"
+VERSION="1.0"
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://github.com/YoussefAhm-Rq1001"
